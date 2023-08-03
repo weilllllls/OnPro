@@ -34,7 +34,7 @@ If you found this code or our work useful, please cite us:
 ```bibtex
 @inproceedings{onpro,
   title={Online Prototype Learning for Online Continual Learning},
-  author={Wei, Yujie and Ye, Jiaxin and Zhang, Junping and Shan, Hongming},
+  author={Wei, Yujie and Ye, Jiaxin and Huang, Zhizhong and Zhang, Junping and Shan, Hongming},
   booktitle={ICCV},
   year={2023}
 }
