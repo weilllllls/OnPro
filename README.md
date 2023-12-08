@@ -33,9 +33,10 @@ If you found this code or our work useful, please cite us:
 
 ```bibtex
 @inproceedings{onpro,
-  title={Online Prototype Learning for Online Continual Learning},
+  title={Online prototype learning for online continual learning},
   author={Wei, Yujie and Ye, Jiaxin and Huang, Zhizhong and Zhang, Junping and Shan, Hongming},
-  booktitle={ICCV},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={18764--18774},
   year={2023}
 }
 ```
